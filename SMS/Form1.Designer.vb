@@ -171,7 +171,7 @@ Partial Class Form1
         ' ComboBox1
         ' 
         ComboBox1.FormattingEnabled = True
-        ComboBox1.Items.AddRange(New Object() {"NAKURU", "MOMBASA", "ELDORET ", "KISUMU", "NAIROBI", "MERU", "EMBU", "KISII"})
+        ComboBox1.Items.AddRange(New Object() {"1. Baringo", "", "2. Bomet", "", "3. Bungoma", "", "4. Busia", "", "5. Elgeyo-Marakwet", "", "6. Embu", "", "7. Garissa", "", "8. Homa Bay", "", "9. Isiolo", "", "10. Kajiado", "", "11. Kakamega", "", "12. Kericho", "", "13. Kiambu", "", "14. Kilifi", "", "15. Kirinyaga", "", "16. Kisii", "", "17. Kisumu", "18. Kitu", "i", "19. Kwale", "", "20. Laikipia", "", "21. Lamu", "", "22. Machakos", "", "23. Makueni", "", "24. Mandera", "", "25. Marsabit", "", "26. Meru", "", "27. Migori", "", "28. Mombasa", "", "29. Murang'a", "", "30. Nairobi", "", "31. Nakuru", "", "32. Nandi", "", "33. Narok", "", "34. Nyamira", "", "35. Nyandarua", "", "36. Nyeri", "", "37. Samburu", "", "38. Siaya", "", "39. Taita-Taveta", "", "40. Tana River", "", "41. Tharaka-Nithi", "", "42. Trans-Nzoia", "", "3. Turkana", "", "44. Uasin Gishu", "", "45. Vihiga", "", "46. Wajir", "", "47. WestPokot"})
         ComboBox1.Location = New Point(252, 375)
         ComboBox1.Name = "ComboBox1"
         ComboBox1.Size = New Size(250, 28)
